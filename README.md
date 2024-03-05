@@ -3,11 +3,6 @@
 
 # tPAUC
 
-<!-- badges: start -->
-<!-- badges: end -->
-
-The goal of tPAUC is to …
-
 ## Installation
 
 You can install the development version of tPAUC like so:
@@ -90,5 +85,5 @@ table
 
 
 print(Sys.time()-ptm)
-#> Time difference of 35.73711 secs
+#> Time difference of 35.83247 secs
 ```

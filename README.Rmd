@@ -15,10 +15,6 @@ knitr::opts_chunk$set(
 
 # tPAUC
 
-<!-- badges: start -->
-<!-- badges: end -->
-
-The goal of tPAUC is to ...
 
 ## Installation
 
